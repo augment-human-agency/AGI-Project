@@ -1,0 +1,2 @@
+# AGI-Project
+ The AGI project under Augment Human Agency (AHA) is dedicated to building safe, ethical, and human-centered AI systems. Our mission is to explore advanced self-modifying architectures, dynamic agents, and resource-aware computation to amplify human potential responsibly. The project is open-source and community-driven, welcoming collaboration and innovation to shape a transparent and equitable AI future.
